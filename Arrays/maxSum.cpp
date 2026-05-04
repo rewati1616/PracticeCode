@@ -10,6 +10,7 @@ int main(){
         for(int end=st; end<n; end++){
             currSum = currSum+ arr[end];
             cout<<max(currSum,arr[end]);
+            
         }
     }
 }
