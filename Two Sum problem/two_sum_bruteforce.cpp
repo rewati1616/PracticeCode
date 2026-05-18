@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int n, target;
+    int n, target;  
     cout << "Enter size: ";
     cin >> n;
     
