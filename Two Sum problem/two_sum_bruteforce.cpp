@@ -5,9 +5,6 @@ int main() {
     int n, target;
     cout << "Enter size: ";
     cin >> n;
-
-
-
     
     int arr[n];
     cout << "Enter elements:\n";
