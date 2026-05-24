@@ -1,6 +1,6 @@
 # 💻 PracticeCode - C++ Programming Practice Repository
 
-A collection of C++ programs and problem-solving exercises created for daily coding practice and strengthening Data Structures & Algorithms fundamentals. This repository is focused on improving logical thinking, problem-solving skills, and mastering core C++ concepts.
+A collection of C++ programs and problem-solving exercises created for daily coding practice and strengthening Data Structures & Algorithms fundamentals. This repository is focused on improving logical thinking, problem-solving skills, and mastering core C++ concepts.   
 
 ---
 
